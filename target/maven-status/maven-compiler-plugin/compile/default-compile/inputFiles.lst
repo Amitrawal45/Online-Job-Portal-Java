@@ -1,0 +1,16 @@
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\dao\UserDAO.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\entity\Jobs.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\servlet\DeleteJobServlet.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\servlet\UpdateJobServlet.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\servlet\LoginServlet.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\servlet\RegisterUserServlet.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\servlet\AddJobsServlet.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\entity\User.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\entity\Candidates.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\dao\JobDAO.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\entity\FileDownloadServlet.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\servlet\LogoutServlet.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\conn\DBConnect.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\dao\CandidateDAO.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\servlet\JobApply.java
+A:\Online-Job-Portal-Java-master\Online-Job-Portal-Java-master\src\main\java\com\servlet\UpdateProfile.java
